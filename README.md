@@ -20,5 +20,5 @@ Jan 03 18:12:56 ip-172-31-37-109.ap-south-1.compute.internal node_exporter[4517]
 
 ---
 
-![image]https://github.com/Ismailpb/node-exporter-using-ansible/blob/ab05ff19422f695b3cbc7c5a29b971e4f3f9a325/Screenshot%20from%202022-01-03%2023-53-00.png
+![image](https://github.com/Ismailpb/node-exporter-using-ansible/blob/ab05ff19422f695b3cbc7c5a29b971e4f3f9a325/Screenshot%20from%202022-01-03%2023-53-00.png)
 
